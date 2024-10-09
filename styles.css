@@ -1,0 +1,11 @@
+.title {
+    color: white;
+    background-color:red;
+    cursor: pointer;
+}
+
+
+.recipes {
+    color: red;
+    font-size: 30px;
+}

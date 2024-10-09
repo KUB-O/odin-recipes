@@ -1,0 +1,37 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(210, 157, 128);
+    color: rgb(0, 0, 0);
+    margin: 40px;
+}
+
+img {
+    width: 400px;
+    height: auto;
+    border: 30px;
+    border-radius: 30px;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.348);
+}
+
+p, ul, ol {
+    block-size: auto;
+    border: 1px solid rebeccapurple;
+    margin: 10px;
+    padding: 10px;
+}
+
+.ingredienten {
+    outline: 6px solid rgb(220, 166, 48);
+    border-radius: 30px;
+}
+
+.button-1 {
+    width: 300px;
+    height: auto;
+    cursor: pointer;
+    color: black;
+    background-color: rgb(172, 218, 72);
+    margin: 60px;
+
+}
+
